@@ -1,4 +1,5 @@
 <?php
+echo "111";
 
 	// 版本更改channelController
 
